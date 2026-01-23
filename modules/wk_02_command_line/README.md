@@ -19,4 +19,15 @@ By the end of this class, you should be able to:
 ## Why this matters:
 Most computational biology tools—whether run locally, scripted in Bash, or executed on remote high‑performance computing systems—are accessed through the command line. Understanding how to navigate the file system and issue precise commands is a foundational skill for working with data, running analyses, and building reproducible workflows throughout this course and beyond.
 
-## Slides
+## Week 2 Slides
+[Command Line](2026_01_03_Command_line.pptx)
+
+## In Class Exercises
+
+## Homework Assignment
+
+## Additional Resources
+
+[Email Charli](mailto:charli.geer@colostate.edu) or [Email Shady](mailto:Shady.Kuster@colostate.edu)
+
+##### Footnote: This README, including the Learning Objectives was developed based on the powerpoint, with assistance from MS CoPilot)
