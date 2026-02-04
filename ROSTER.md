@@ -2,7 +2,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Jay Adams |               |               |               |
 | Ryan Cleaves |               |               |               |
-| Marisa Foster |               |               |               |
+| Marisa Foster | marisafoster30  |  marisa.foster@colostate.edu       |  Outdoorsy          |
 | Ayda Lewis |               |               |               |
 | Katie Markstein |               |               |               |
 | Gavin McEwen |               |               |               |
