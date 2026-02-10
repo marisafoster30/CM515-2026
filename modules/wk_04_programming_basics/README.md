@@ -10,11 +10,16 @@ Students will become familiar with:
 * TBD
 
 ### Assignments
-TBD
+Complete the exercises in `020926_CM515_Assisgnment.ipynb` and submit as an assignment on GitHub
 
 ## Session 2, Wednesday Feb. 11
 Students will become familiar with: 
-* TBD
+* Basic Python data structures such as lists and dictonaries
+* For and While loops
+* Conditionals
+* Reading data from files
+* Writing data to files
+* Basic data wrangling
 
 ### Assignments
-TBD
+Complete the exercises in the `python_part_2_independent` folder. Run `grading.py` to test and grade your code.
